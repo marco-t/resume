@@ -109,3 +109,10 @@ hr {
   border-style: none none dotted; 
   margin: 0 10% 0 0;
 }
+
+.credit {
+  color: #808284;
+  font-style: italic;
+  font-size: .8em;
+  margin-left: 2%;
+}
